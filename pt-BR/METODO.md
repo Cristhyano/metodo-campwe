@@ -120,7 +120,7 @@ O relatório é a prova de que o ciclo aconteceu. Ele é público e diz:
 
 ## 8. Como adaptar para a sua cidade
 
-Este método é livre (veja a [licença](LICENSE)). Para rodar um ciclo:
+Este método é livre (veja a [licença](../LICENSE)). Para rodar um ciclo:
 
 1. Escolha um bairro e um problema com o poder público local.
 2. Ache uma instituição de ensino que registre o desafio no seu sistema.
@@ -129,7 +129,7 @@ Este método é livre (veja a [licença](LICENSE)). Para rodar um ciclo:
 
 Ao adaptar, diga de onde veio: "baseado no método Campwe" com o link deste repositório. Se você mudar o método e
 distribuir a sua versão, ela precisa continuar com a mesma licença. Conte para a gente o que mudou: abra uma *issue*
-neste repositório ou registre a sua versão em [DERIVACOES.md](DERIVACOES.md).
+neste repositório ou registre a sua versão em [DERIVATIVES.md](../DERIVATIVES.md).
 
 O nome Campwe não está incluído na licença. Veja [MARCA.md](MARCA.md).
 

@@ -1,39 +1,42 @@
-# Método Campwe
+# The Campwe method
 
-Um método aberto para uma cidade resolver os próprios problemas: **o bairro conta o problema, universitários criam
-as soluções com quem vive nele, e a cidade testa as que avançam.** Tudo fica público, com o nome de quem fez, e
-qualquer outra cidade pode adaptar.
+An open method for a city to solve its own problems: **the neighborhood names the problem, university students build
+solutions with the people who live it, and the city tests the ones that advance.** Everything stays public, credited
+to whoever made it, and any other city can adapt it.
 
-**Versão 0.1**, de novembro de 2026: o método escrito antes do primeiro ciclo completo, que está em preparação no
-interior do Ceará. A versão 1.0 sai com o relatório desse ciclo.
+**Version 0.1**, November 2026: the method written down before the first complete cycle, which is being prepared in
+the interior of Ceará, Brazil. Version 1.0 will ship with that cycle's report.
 
-## O que tem aqui
+*Em português: [pt-BR/](pt-BR/README.md).*
 
-| Arquivo | O que é |
+## What's here
+
+| File | What it is |
 |---|---|
-| [METODO.md](METODO.md) | O método completo: princípios, os três andares, papéis, o ciclo de seis meses, o registro das ideias, as regras que não mudam e o relatório |
-| [modelos/](modelos/) | Modelos prontos para usar: a ficha da escuta, a ficha do desafio e o relatório do ciclo |
-| [MARCA.md](MARCA.md) | O que você pode fazer com o nome Campwe |
-| [CONTRIBUINDO.md](CONTRIBUINDO.md) | Como propor melhorias e como as versões funcionam |
-| [DERIVACOES.md](DERIVACOES.md) | Quem adaptou o método, e onde |
-| [MUDANCAS.md](MUDANCAS.md) | O que mudou em cada versão |
+| [METHOD.md](METHOD.md) | The full method: principles, the three floors, roles, the six-month cycle, the idea registry, the rules that don't change, and the report |
+| [templates/](templates/) | Ready-to-use templates: the listening sheet, the challenge sheet, and the cycle report |
+| [TRADEMARK.md](TRADEMARK.md) | What you can do with the Campwe name |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to propose improvements and how versions work |
+| [DERIVATIVES.md](DERIVATIVES.md) | Who adapted the method, and where |
+| [CHANGELOG.md](CHANGELOG.md) | What changed in each version |
 
-## O ciclo em uma linha
+## The cycle in one line
 
-**Escuta no bairro → desafio universitário → final aberta à cidade → relatório público com o destino de cada
-ideia → teste no bairro das que avançaram.** Seis meses, cabendo num semestre letivo.
+**Listening in the neighborhood → university challenge → final open to the city → public report with the outcome of
+every idea → neighborhood test of the ones that advanced.** Six months, fitting into one academic semester.
 
-## Pode copiar
+## Copy it
 
-O método está sob a licença [Creative Commons Atribuição-CompartilhaIgual 4.0](LICENSE) (CC BY-SA 4.0).
-- **Pode:** usar, copiar, adaptar e até cobrar para executar.
-- **Desde que:** diga de onde veio e mantenha a sua versão com a mesma licença.
+The method is licensed under [Creative Commons Attribution-ShareAlike 4.0](LICENSE) (CC BY-SA 4.0).
+- **You may** use, copy, and adapt it, and even charge for running it.
+- **As long as** you say where it came from and keep your version under the same license.
 
-Quando houver código, ele sai sob a [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+When there is code, it will be released under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).
 
-A Campwe mantém a versão de referência e ganha executando: opera ciclos, mantém a plataforma, certifica eventos
-oficiais e forma mediadores. Se alguém fizer melhor usando este método, ótimo: a melhoria volta aberta para todos.
+Campwe maintains the reference version and earns its living by executing it: running cycles, maintaining the platform,
+certifying official events, and training facilitators. If someone does it better using this method, great: the
+improvement comes back open for everyone.
 
-## Contato
+## Contact
 
-Abra uma *issue* neste repositório.
+Open an issue in this repository.

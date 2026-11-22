@@ -9,7 +9,7 @@ As melhorias mais úteis vêm de quem rodou um ciclo: o que funcionou, o que nã
 
 ## Registrar a sua adaptação
 
-Se você adaptou o método para a sua cidade ou instituição, acrescente uma linha em [DERIVACOES.md](DERIVACOES.md),
+Se você adaptou o método para a sua cidade ou instituição, acrescente uma linha em [DERIVATIVES.md](../DERIVATIVES.md),
 por *pull request* ou numa *issue*. A sua versão continua sua, e o registro ajuda outras cidades a encontrá-la.
 
 ## Como as versões funcionam
@@ -17,7 +17,7 @@ por *pull request* ou numa *issue*. A sua versão continua sua, e o registro aju
 - Sai **uma versão do método por ciclo de seis meses**, com o que se aprendeu nele.
 - A Campwe mantém a versão de referência e decide o que entra nela, sempre explicando a decisão na *issue*.
 - **Nenhuma versão quebra as [regras que não mudam](METODO.md#6-as-regras-que-não-mudam).**
-- Cada versão fica registrada em [MUDANCAS.md](MUDANCAS.md).
+- Cada versão fica registrada em [CHANGELOG.md](../CHANGELOG.md).
 
 ## Licença das contribuições
 
