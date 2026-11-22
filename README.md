@@ -1,13 +1,13 @@
 # The Campwe method
 
-**Every city is the future of another.**
+**Every place is the future of another.**
 
 The solution to a city's problem most likely already exists, somewhere else or at another time. This open method finds
 it, adapts it with the community, and builds new solutions only when nothing fits: **the neighborhood names the
 problem, university students search, adapt, and build with the people who live it, and the city tests the ones that
 advance.** Everything stays public, credited to whoever made it, and any other city can adapt it.
 
-**Version 0.2**, November 2026: the method written down before the first complete cycle, which is being prepared in
+**Version 0.2.1**, November 2026: the method written down before the first complete cycle, which is being prepared in
 the interior of Ceará, Brazil. Version 1.0 will ship with that cycle's report.
 
 *Em português: [pt-BR/](pt-BR/README.md).*

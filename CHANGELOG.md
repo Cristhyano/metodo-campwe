@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 · November 2026
+
+- The headline becomes "Every place is the future of another" (in Portuguese, "Todo local é o futuro de outro"). No change to the method itself.
+
 ## 0.2 · November 2026
 
 - **New premise:** the solution to a city's problem most likely already exists, somewhere else or at another time.

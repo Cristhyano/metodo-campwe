@@ -1,6 +1,6 @@
-# The Campwe method · version 0.2
+# The Campwe method · version 0.2.1
 
-**Every city is the future of another.**
+**Every place is the future of another.**
 
 The solution to a city's problem most likely already exists, somewhere else or at another time. Progress spreads
 unevenly across the world, so what one place still struggles with, another solved years ago, or centuries ago. The
@@ -12,7 +12,7 @@ The neighborhood names the problem, university students search, adapt, and build
 the city tests the ones that advance. Everything stays public, credited to whoever made it, and any other city can
 adapt it.
 
-This is version 0.2, written before the first complete cycle. Anything not yet tested is marked **(to be tested)**.
+This is version 0.2.1, written before the first complete cycle. Anything not yet tested is marked **(to be tested)**.
 
 ---
 

@@ -1,8 +1,8 @@
-# O método Campwe · versão 0.2
+# O método Campwe · versão 0.2.1
 
 *Tradução em português. A versão de referência é a em inglês: [METHOD.md](../METHOD.md).*
 
-**Toda cidade é o futuro de outra.**
+**Todo local é o futuro de outro.**
 
 A solução para o problema de uma cidade provavelmente já existe, em outro lugar ou em outro tempo. O avanço se
 espalha de forma desigual pelo mundo: aquilo com que um lugar ainda luta, outro resolveu anos ou séculos atrás. O
@@ -13,7 +13,7 @@ método Campwe faz duas coisas:
 O bairro conta o problema, universitários buscam, adaptam e constroem com quem vive nele, e a cidade testa as que
 avançam. Tudo fica público, com o nome de quem fez, e qualquer outra cidade pode adaptar.
 
-Esta é a versão 0.2, escrita antes do primeiro ciclo completo. O que ainda não foi testado está marcado como
+Esta é a versão 0.2.1, escrita antes do primeiro ciclo completo. O que ainda não foi testado está marcado como
 **(a testar)**.
 
 ---

@@ -2,14 +2,14 @@
 
 *Tradução em português. A versão de referência é a em inglês: [README](../README.md).*
 
-**Toda cidade é o futuro de outra.**
+**Todo local é o futuro de outro.**
 
 A solução para o problema de uma cidade provavelmente já existe, em outro lugar ou em outro tempo. Este método aberto
 encontra essa solução, adapta com a comunidade e só constrói soluções novas quando nada serve: **o bairro conta o
 problema, universitários buscam, adaptam e constroem com quem vive nele, e a cidade testa as que avançam.** Tudo fica
 público, com o nome de quem fez, e qualquer outra cidade pode adaptar.
 
-**Versão 0.2**, de novembro de 2026: o método escrito antes do primeiro ciclo completo, que está em preparação no
+**Versão 0.2.1**, de novembro de 2026: o método escrito antes do primeiro ciclo completo, que está em preparação no
 interior do Ceará. A versão 1.0 sai com o relatório desse ciclo.
 
 ## O que tem aqui
