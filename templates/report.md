@@ -16,7 +16,9 @@ what it said.
 | Teams | |
 | Students | |
 | Advisors | |
+| Existing solutions found | |
 | Ideas published | |
+| Ideas adapted from elsewhere | |
 | Versions and proposed improvements | |
 | People at the final | |
 
@@ -24,23 +26,29 @@ what it said.
 
 A summary of the listening sheet, the challenge question, and why it was chosen.
 
-## 3. The outcome of each idea
+## 3. Existing solutions found
 
-| Idea | Team and authors | Outcome | Why | Next step |
-|---|---|---|---|---|
-| | | Adopted / Adapted / Archived | | |
+| Solution | Where and when | Principle | Used by which idea |
+|---|---|---|---|
+| | | | |
+
+## 4. The outcome of each idea
+
+| Idea | Team and authors | Origin | Outcome | Why | Next step |
+|---|---|---|---|---|---|
+| | | Adapted from (card) / New | Adopted / Adapted / Archived | | |
 
 Every idea appears here, including the archived ones. Archived does not mean deleted: the idea stays public and
 another city can adapt it.
 
-## 4. Credit
+## 5. Credit
 
 Who contributed what, taken from the idea registry. People who withdrew their data appear as anonymous.
 
-## 5. What went back to the neighborhood
+## 6. What went back to the neighborhood
 
 When and how the neighborhood learned about this report: the feedback meeting, the date, and how many people came.
 
-## 6. What changes in the next cycle
+## 7. What changes in the next cycle
 
 What worked, what didn't, and what we will do differently. This feeds the next version of the method.

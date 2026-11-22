@@ -1,10 +1,13 @@
 # The Campwe method
 
-An open method for a city to solve its own problems: **the neighborhood names the problem, university students build
-solutions with the people who live it, and the city tests the ones that advance.** Everything stays public, credited
-to whoever made it, and any other city can adapt it.
+**Every city is the future of another.**
 
-**Version 0.1**, November 2026: the method written down before the first complete cycle, which is being prepared in
+The solution to a city's problem most likely already exists, somewhere else or at another time. This open method finds
+it, adapts it with the community, and builds new solutions only when nothing fits: **the neighborhood names the
+problem, university students search, adapt, and build with the people who live it, and the city tests the ones that
+advance.** Everything stays public, credited to whoever made it, and any other city can adapt it.
+
+**Version 0.2**, November 2026: the method written down before the first complete cycle, which is being prepared in
 the interior of Ceará, Brazil. Version 1.0 will ship with that cycle's report.
 
 *Em português: [pt-BR/](pt-BR/README.md).*
@@ -13,8 +16,8 @@ the interior of Ceará, Brazil. Version 1.0 will ship with that cycle's report.
 
 | File | What it is |
 |---|---|
-| [METHOD.md](METHOD.md) | The full method: principles, the three floors, roles, the six-month cycle, the idea registry, the rules that don't change, and the report |
-| [templates/](templates/) | Ready-to-use templates: the listening sheet, the challenge sheet, and the cycle report |
+| [METHOD.md](METHOD.md) | The full method: the premise, principles, the five-step way of thinking, the three floors, roles, the six-month cycle, the idea registry, the rules that don't change, the report, and related methods |
+| [templates/](templates/) | Ready-to-use templates: the listening sheet, the challenge sheet, the solution card, and the cycle report |
 | [TRADEMARK.md](TRADEMARK.md) | What you can do with the Campwe name |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to propose improvements and how versions work |
 | [DERIVATIVES.md](DERIVATIVES.md) | Who adapted the method, and where |
@@ -22,8 +25,9 @@ the interior of Ceará, Brazil. Version 1.0 will ship with that cycle's report.
 
 ## The cycle in one line
 
-**Listening in the neighborhood → university challenge → final open to the city → public report with the outcome of
-every idea → neighborhood test of the ones that advanced.** Six months, fitting into one academic semester.
+**Listening in the neighborhood → search for existing solutions in other places and times → adaptation with the
+community → final open to the city → public report with the outcome and origin of every idea → neighborhood test of
+the ones that advanced.** Six months, fitting into one academic semester.
 
 ## Copy it
 

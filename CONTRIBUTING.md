@@ -18,7 +18,7 @@ request or in an issue. Your version stays yours, and the record helps other cit
 
 - **One version of the method per six-month cycle**, with what was learned in it.
 - Campwe maintains the reference version and decides what goes into it, always explaining the decision in the issue.
-- **No version breaks [the rules that don't change](METHOD.md#6-the-rules-that-dont-change).**
+- **No version breaks [the rules that don't change](METHOD.md#8-the-rules-that-dont-change).**
 - Every version is recorded in [CHANGELOG.md](CHANGELOG.md).
 - English is the reference language. The Portuguese translation in [pt-BR/](pt-BR/README.md) follows it.
 

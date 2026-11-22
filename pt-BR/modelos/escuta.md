@@ -44,3 +44,11 @@ Uma frase, começando por "Como podemos…", que:
 **Pergunta:**
 
 **Por que esta e não outra:**
+
+## A necessidade por trás dela
+
+O mesmo problema, sem citar o lugar, para os times buscarem em outros lugares e tempos (método, §3, passo 1).
+
+- **Necessidade:** (o que as pessoas precisam, em termos universais)
+- **Princípio procurado:** (o tipo de mecanismo que resolveria)
+- **Condições locais:** (clima, recursos, renda, infraestrutura, cultura, escala)

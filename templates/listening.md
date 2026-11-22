@@ -44,3 +44,11 @@ One sentence, starting with "How might we…", that:
 **Question:**
 
 **Why this one and not another:**
+
+## The need behind it
+
+The same problem, without naming the place, so teams can search other places and times (method, §3, step 1).
+
+- **Need:** (what people need, in universal terms)
+- **Principle we are looking for:** (the kind of mechanism that would solve it)
+- **Local conditions:** (climate, resources, income, infrastructure, culture, scale)

@@ -2,19 +2,22 @@
 
 *Tradução em português. A versão de referência é a em inglês: [README](../README.md).*
 
-Um método aberto para uma cidade resolver os próprios problemas: **o bairro conta o problema, universitários criam
-as soluções com quem vive nele, e a cidade testa as que avançam.** Tudo fica público, com o nome de quem fez, e
-qualquer outra cidade pode adaptar.
+**Toda cidade é o futuro de outra.**
 
-**Versão 0.1**, de novembro de 2026: o método escrito antes do primeiro ciclo completo, que está em preparação no
+A solução para o problema de uma cidade provavelmente já existe, em outro lugar ou em outro tempo. Este método aberto
+encontra essa solução, adapta com a comunidade e só constrói soluções novas quando nada serve: **o bairro conta o
+problema, universitários buscam, adaptam e constroem com quem vive nele, e a cidade testa as que avançam.** Tudo fica
+público, com o nome de quem fez, e qualquer outra cidade pode adaptar.
+
+**Versão 0.2**, de novembro de 2026: o método escrito antes do primeiro ciclo completo, que está em preparação no
 interior do Ceará. A versão 1.0 sai com o relatório desse ciclo.
 
 ## O que tem aqui
 
 | Arquivo | O que é |
 |---|---|
-| [METODO.md](METODO.md) | O método completo: princípios, os três andares, papéis, o ciclo de seis meses, o registro das ideias, as regras que não mudam e o relatório |
-| [modelos/](modelos/) | Modelos prontos para usar: a ficha da escuta, a ficha do desafio e o relatório do ciclo |
+| [METODO.md](METODO.md) | O método completo: a premissa, os princípios, o jeito de pensar em cinco passos, os três andares, papéis, o ciclo de seis meses, o registro das ideias, as regras que não mudam, o relatório e os métodos parecidos |
+| [modelos/](modelos/) | Modelos prontos para usar: a ficha da escuta, a ficha do desafio, a ficha de solução e o relatório do ciclo |
 | [MARCA.md](MARCA.md) | O que você pode fazer com o nome Campwe |
 | [CONTRIBUINDO.md](CONTRIBUINDO.md) | Como propor melhorias e como as versões funcionam |
 | [DERIVATIVES.md](../DERIVATIVES.md) | Quem adaptou o método, e onde |
@@ -22,8 +25,9 @@ interior do Ceará. A versão 1.0 sai com o relatório desse ciclo.
 
 ## O ciclo em uma linha
 
-**Escuta no bairro → desafio universitário → final aberta à cidade → relatório público com o destino de cada
-ideia → teste no bairro das que avançaram.** Seis meses, cabendo num semestre letivo.
+**Escuta no bairro → busca de soluções que já existem em outros lugares e tempos → adaptação com a comunidade →
+final aberta à cidade → relatório público com o destino e a origem de cada ideia → teste no bairro das que
+avançaram.** Seis meses, cabendo num semestre letivo.
 
 ## Pode copiar
 

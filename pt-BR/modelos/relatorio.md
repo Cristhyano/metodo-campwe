@@ -16,7 +16,9 @@ contou.
 | Times | |
 | Estudantes | |
 | Orientadores | |
+| Soluções existentes encontradas | |
 | Ideias publicadas | |
+| Ideias adaptadas de outro lugar | |
 | Versões e melhorias propostas | |
 | Pessoas na final | |
 
@@ -24,23 +26,29 @@ contou.
 
 O resumo da ficha da escuta, a pergunta do desafio e por que foi ela.
 
-## 3. O destino de cada ideia
+## 3. Soluções existentes encontradas
 
-| Ideia | Time e autores | Destino | Por quê | Próximo passo |
-|---|---|---|---|---|
-| | | Adotada / Adaptada / Arquivada | | |
+| Solução | Onde e quando | Princípio | Usada por qual ideia |
+|---|---|---|---|
+| | | | |
+
+## 4. O destino de cada ideia
+
+| Ideia | Time e autores | Origem | Destino | Por quê | Próximo passo |
+|---|---|---|---|---|---|
+| | | Adaptada de (ficha) / Nova | Adotada / Adaptada / Arquivada | | |
 
 Toda ideia aparece aqui, inclusive as arquivadas. Arquivada não é apagada: fica pública e pode ser adaptada por
 outra cidade.
 
-## 4. Crédito
+## 5. Crédito
 
 Quem contribuiu com o quê, a partir do registro das ideias. Quem retirou os seus dados aparece como anônimo.
 
-## 5. O que voltou para o bairro
+## 6. O que voltou para o bairro
 
 Quando e como o bairro ficou sabendo deste relatório: o encontro de devolução, a data e quantas pessoas.
 
-## 6. O que muda no próximo ciclo
+## 7. O que muda no próximo ciclo
 
 O que funcionou, o que não funcionou e o que vamos fazer diferente. Isto alimenta a próxima versão do método.
